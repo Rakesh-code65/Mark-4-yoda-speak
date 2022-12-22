@@ -4,3 +4,10 @@ body{
     text-align: center;
     background-color: coral;
 }
+
+.footer{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align-center;
+}
